@@ -4,9 +4,10 @@
   "description": "Razvojna okolina - parcijalni ispit",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "focus-visible": "^5.2.0"
   },
-  "devDependencies": {},
+    
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
