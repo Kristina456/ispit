@@ -5,11 +5,11 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
-    "focus-visible": "^5.2.0"
+    "lite-server": "^2.6.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "focus-visible"
+    "server": "lite-server"
   },
   "repository": {
     "type": "git",
